@@ -1,2 +1,2 @@
-hello
-this is thee first lec of git
+# Alpha-2
+First Repo
